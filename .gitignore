@@ -1,0 +1,9 @@
+/node_modules
+*test*
+!.gitignore
+*temp*
+*zip
+*7z
+!/ts/*.test.ts
+/js
+!/js/404.jpg
